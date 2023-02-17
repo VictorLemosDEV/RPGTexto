@@ -1,6 +1,6 @@
 ~~NomedaFuncao~~ significa que a função está desativada temporariamente
 
-**Atualização** - 16/02/23 22:34
+**Atualização** - 16/02/23 23:10
 --
 
 * Adicionado sistema de salvamento (incompleto)
